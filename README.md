@@ -1,2 +1,2 @@
 # e-prescription
-aplikasi resep
+Adalah aplikasi resep electronic
